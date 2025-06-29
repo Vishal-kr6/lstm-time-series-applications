@@ -1,1 +1,2 @@
 (Binary image data: Save your matplotlib plot as 'images/stock_price_prediction.png')
+plt.savefig('images/stock_price_prediction.png
