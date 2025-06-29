@@ -1,0 +1,1 @@
+sample text for language modeling using lstm. this is just a short example for demonstration.
